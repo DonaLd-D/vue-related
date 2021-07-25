@@ -10,10 +10,17 @@
 - element-ui [https://element.eleme.cn/#/zh-CN/component/installation](https://element.eleme.cn/#/zh-CN/component/installation)
 - ant design [https://www.antdv.com/docs/vue/introduce-cn/](https://www.antdv.com/docs/vue/introduce-cn/)
 - iview [http://v1.iviewui.com/](http://v1.iviewui.com/)
+- iconfont [https://www.iconfont.cn/](https://www.iconfont.cn/)
 
-# tools
+# tools🔨
 - webpack [https://www.webpackjs.com/concepts/](https://www.webpackjs.com/concepts/)
 - vite [https://cn.vitejs.dev/guide/](https://cn.vitejs.dev/guide/)
 - axios [http://www.axios-js.com/zh-cn/docs/](http://www.axios-js.com/zh-cn/docs/)
 - fetch [https://www.ruanyifeng.com/blog/2020/12/fetch-tutorial.html](https://www.ruanyifeng.com/blog/2020/12/fetch-tutorial.html)
 - fetch [https://developer.mozilla.org/zh-CN/docs/Web/API/Fetch_API/Using_Fetch](https://developer.mozilla.org/zh-CN/docs/Web/API/Fetch_API/Using_Fetch)
+
+# SSR
+- nuxt [https://zh.nuxtjs.org/](https://zh.nuxtjs.org/)
+
+# 小程序
+- uniapp [https://uniapp.dcloud.io/](https://uniapp.dcloud.io/)
