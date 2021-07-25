@@ -33,3 +33,4 @@
 # evan
 - [https://teahour.fm/78](https://teahour.fm/78)
 - [https://www.zhihu.com/people/evanyou](https://www.zhihu.com/people/evanyou)
+- [https://www.youtube.com/watch?v=OrxmtDw4pVI](https://www.youtube.com/watch?v=OrxmtDw4pVI)
