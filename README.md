@@ -28,6 +28,7 @@
 # awesome👓
 - [https://github.com/vuejs/awesome-vue](https://github.com/vuejs/awesome-vue)
 - [https://github.com/sudheerj/vuejs-interview-questions](https://github.com/sudheerj/vuejs-interview-questions)
+- [https://github.com/PanJiaChen/awesome-bookmarks](https://github.com/PanJiaChen/awesome-bookmarks)
 
 # evan
 - [https://teahour.fm/78](https://teahour.fm/78)
@@ -36,3 +37,8 @@
 
 # cdn
 - [https://www.bootcdn.cn/](https://www.bootcdn.cn/)
+
+# others
+- [https://github.com/PanJiaChen/vue-admin-template](https://github.com/PanJiaChen/vue-admin-template)
+- [https://github.com/PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)
+- [https://github.com/PanJiaChen/Front-end-Web-Development-Interview-Question](https://github.com/PanJiaChen/Front-end-Web-Development-Interview-Question)
