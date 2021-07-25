@@ -1,5 +1,4 @@
 # vue网址导航🧭
-- [https://teahour.fm/78](https://teahour.fm/78)
 - vue2.x [https://cn.vuejs.org/v2/api/](https://cn.vuejs.org/v2/api/)
 - vue3.x [https://v3.cn.vuejs.org/api/](https://v3.cn.vuejs.org/api/)
 - vue-cli [https://cli.vuejs.org/zh/](https://cli.vuejs.org/zh/)
