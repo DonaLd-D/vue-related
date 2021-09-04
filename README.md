@@ -4,6 +4,7 @@
 - vue-cli [https://cli.vuejs.org/zh/](https://cli.vuejs.org/zh/)
 - vue router [https://router.vuejs.org/zh/](https://router.vuejs.org/zh/)
 - vueX [https://vuex.vuejs.org/zh/](https://vuex.vuejs.org/zh/)
+- snabbdom [https://github.com/snabbdom/](https://github.com/snabbdom/)
 
 # UI
 - vant [https://youzan.github.io/vant/#/zh-CN/](https://youzan.github.io/vant/#/zh-CN/)
