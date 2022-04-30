@@ -11,7 +11,6 @@
 - vant [https://youzan.github.io/vant/#/zh-CN/](https://youzan.github.io/vant/#/zh-CN/)
 - element-ui [https://element.eleme.cn/#/zh-CN/component/installation](https://element.eleme.cn/#/zh-CN/component/installation)
 - ant design [https://www.antdv.com/docs/vue/introduce-cn/](https://www.antdv.com/docs/vue/introduce-cn/)
-- iview [http://v1.iviewui.com/](http://v1.iviewui.com/)
 - iconfont [https://www.iconfont.cn/](https://www.iconfont.cn/)
 
 # tools🔨
